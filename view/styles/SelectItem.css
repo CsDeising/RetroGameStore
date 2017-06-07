@@ -1,0 +1,39 @@
+.prodImage
+{
+	float: left;
+}
+
+.prodDescription
+{
+	padding-left: 425px;
+	padding-right: 300px;
+
+}
+
+.prodPrice
+{
+	float: right;
+	margin-right: 25px;
+	border: 1px groove #000000;
+	padding: 100px 100px 100px 100px;
+	margin-top: -50px;
+}
+
+#addCartForm
+{
+	position: relative;
+	
+	margin-left: 1000px;
+	
+	
+}
+
+.txtProdQuantity
+{
+	width: 100px;
+}
+
+#addCartCancel
+{
+	margin-left: 300px;
+}

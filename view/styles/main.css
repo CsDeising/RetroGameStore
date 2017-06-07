@@ -1,0 +1,109 @@
+/* Corey Deising
+ * 
+ */
+
+article, aside, figure, footer, header, nav, section 
+{
+    display: block;
+}
+
+html
+{
+	
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-color: blue;
+	
+	
+}
+
+tr:nth-child(even) {
+    background-color: #66ccff;
+}
+
+header
+{
+	border-bottom: 1px solid blue;
+}
+/*
+.current
+{
+	background-color: orange;
+}
+*/
+
+body
+{
+	
+	font-family: sans-serif;
+	width: 1200px;
+	
+	margin: auto;
+	background-color: white;
+	
+}
+
+#nav_bar ul
+{
+	text-align: right;
+	margin: auto;
+    list-style: circle;
+	padding: 1em 0;
+	
+}
+
+#nav_bar li
+{
+	
+	display: inline;
+}
+
+#nav_bar a
+{
+	padding: 1em 2em;
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+	border-right: 2px solid white;
+	
+}
+
+#titleName
+{
+	padding-top: 50px;
+	padding-left: 30px;
+}
+
+
+.product_name
+{
+	margin-top: 20px;
+	font-size: 150%
+	
+}
+
+.product_add_item
+{
+padding-left: 200px;
+padding-right: 200px;
+border-bottom: 1px solid black;
+padding-bottom: 10px;
+}
+
+#txtQuantity
+{
+margin-bottom: 20px;
+}
+
+.aboutUs
+{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#aboutUsHeader
+{
+	padding-left: 25px;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
