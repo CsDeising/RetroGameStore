@@ -1,7 +1,7 @@
 <HTML>
 
 <HEAD>
-<title>Final Project - Select Item</title>
+<title>Select Item</title>
 <link href="style.css" rel="stylesheet" media="screen">
 <meta charset="utf-8"/>
 <link rel="stylesheet" href="/view/styles/main.css">
